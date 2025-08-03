@@ -40,7 +40,7 @@ Welcome to **Dragon Repeller**, a beginner-friendly browser-based RPG game built
 • Additional custom styling and layout enhancements by the developer
 
 
-📃 License
+## 📃 License
 This project is open source and free to use under the MIT License.
 
 
