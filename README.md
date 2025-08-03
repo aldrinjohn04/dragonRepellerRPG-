@@ -39,6 +39,7 @@ Welcome to **Dragon Repeller**, a beginner-friendly browser-based RPG game built
 • This project is inspired by the RPG game activity from freeCodeCamp's JavaScript Algorithms and Data Structures certification.
 • Additional custom styling and layout enhancements by the developer
 
+---
 
 ## 📃 License
 This project is open source and free to use under the MIT License.
