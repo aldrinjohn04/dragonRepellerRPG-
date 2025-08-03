@@ -42,3 +42,6 @@ Welcome to **Dragon Repeller**, a beginner-friendly browser-based RPG game built
 
 📃 License
 This project is open source and free to use under the MIT License.
+
+
+![Screenshot of the game](images/monster-battle-preview.png)
